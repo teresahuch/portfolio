@@ -1,5 +1,5 @@
 +++
-image = "img/portfolio/Scan2_Rhythmus7.jpg"
+image = "img/portfolio/Scan2_Rythmus7.jpg"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
 title = "EXPERIMENTAL WORK"
